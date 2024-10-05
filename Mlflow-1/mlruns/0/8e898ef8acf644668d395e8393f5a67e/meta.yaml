@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLOps-101/Mlflow-1/mlruns/0/8e898ef8acf644668d395e8393f5a67e/artifacts
+end_time: 1728135063049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e898ef8acf644668d395e8393f5a67e
+run_name: brawny-dove-905
+run_uuid: 8e898ef8acf644668d395e8393f5a67e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728135048676
+status: 3
+tags: []
+user_id: yores
